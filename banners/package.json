@@ -911,7 +911,7 @@
 	{
             "label": "english premier league",
             "banner": "english premier league"
-        },
+    },
         {
             "label": "english premier league cup",
             "banner": "english premier league cup"
@@ -923,11 +923,11 @@
 	{
             "label": "english u-18 premier league",
             "banner": "english u-18 premier league"
-        },
+    },
         {
             "label": "english womens championship",
             "banner": "english womens championship"
-        },
+    },
         {
             "label": "english womens community shield",
             "banner": "english womens community shield"
@@ -935,11 +935,11 @@
 	{
             "label": "english womens fa cup",
             "banner": "english womens fa cup"
-        },
+    },
         {
             "label": "english women's premier 15s",
             "banner": "english women's premier 15s"
-        },
+    },
         {
             "label": "english womens national league cup",
             "banner": "english womens national league cup"
@@ -951,7 +951,7 @@
 	{
             "label": "english womens super league",
             "banner": "english womens super league"
-        },
+    },
         {
             "label": "english wsl 2",
             "banner": "english wsl 2"
@@ -991,15 +991,15 @@
 	{            
             "label": "fifa club world cup",
             "banner": "fifa club world cup"
-        },
+    },
         {            
             "label": "fifa/concacaf wc 2026 qualifiers",
             "banner": "fifa concacaf wc 2026 qualifiers"
-        },
+    },
         {            
             "label": "fifa intercontinental cup",
             "banner": "fifa intercontinental cup"
-        },
+    },
         {            
             "label": "fifa/ofc wc 2026 qualifiers",
             "banner": "fifa ofc wc 2026 qualifiers"
@@ -1011,15 +1011,19 @@
 	{            
             "label": "fifa u-20 world cup",
             "banner": "fifa u-20 world cup"
-        },
+    },
         {            
             "label": "fifa u-17 womens world cup 2025",
             "banner": "fifa u-17 womens world cup 2025"
-        },
+     },
         {            
             "label": "fifa u-20 womens world cup 2025",
             "banner": "fifa u-20 womens world cup 2025"
-        },
+    },
+        {            
+            "label": "fifa/uefa womens wc 2027 qualifiers",
+            "banner": "fifa/uefa womens wc 2027 qualifiers"
+    },
         {            
             "label": "fifa/uefa wc 2026 qualifiers",
             "banner": "fifa uefa wc 2026 qualifiers"
@@ -1071,7 +1075,7 @@
 	{
             "label": "french féminine première ligue",
             "banner": "french féminine première ligue"
-        },
+    },
         {
             "label": "french féminine seconde ligue",
             "banner": "french féminine seconde ligue"
@@ -1083,7 +1087,7 @@
 	{
             "label": "french ligue 1",
             "banner": "french ligue 1"
-        },
+    },
         {
             "label": "french ligue 2",
             "banner": "french ligue 2"
@@ -1091,7 +1095,7 @@
 	{
             "label": "french national 1",
             "banner": "french national 1"
-        },
+    },
         {
             "label": "french national 2",
             "banner": "french national 2"
@@ -1107,15 +1111,15 @@
 	{
             "label": "french w/super cup (trophée des champions)",
             "banner": "french wsuper cup (trophée des champions)"
-        },
+    },
         {
             "label": "friendly club match",
             "banner": "friendly club match"
-        },
+    },
         {
             "label": "friendly hybrid match",
             "banner": "friendly hybrid match"
-        },
+    },
         {
             "label": "friendly international",
             "banner": "friendly international"
@@ -1151,7 +1155,7 @@
 	{
             "label": "german cup (dfb-pokal)",
             "banner": "german cup (dfb-pokal)"
-        },
+    },
         {
             "label": "german cup (dfb-pokal) - u19",
             "banner": "german cup (dfb-pokal) - u19"
@@ -1159,7 +1163,7 @@
 	{
             "label": "german frauen bundesliga",
             "banner": "german frauen bundesliga"
-        },
+    },
         {
             "label": "german junior cup",
             "banner": "german junior cup"
@@ -1171,11 +1175,11 @@
 	{
             "label": "german regional cup - bayern",
             "banner": "german regional cup - bayern"
-        },
+    },
         {
             "label": "german regional cup - berlin",
             "banner": "german regional cup - berlin"
-        },
+    },
         {
             "label": "german regional cup - brandenburg",
             "banner": "german regional cup - brandenburg"
@@ -2694,3 +2698,4 @@
         }
     ]
 }
+
