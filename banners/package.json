@@ -5,7 +5,7 @@
             "banner": "abn amro u-17 future cup"
     },
         {
-	    "label": "afc asian cup 2027",
+	    	"label": "afc asian cup 2027",
             "banner": "afc asian cup 2027"
     },
         {
@@ -2019,6 +2019,10 @@
         {
             "label": "saudi super cup",
             "banner": "saudi super cup"
+   },
+        {
+            "label": "scottish centenary shield",
+			"banner": "scottish centenary shield"
     },
         {
             "label": "scottish challenge cup",
