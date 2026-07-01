@@ -2613,10 +2613,6 @@
             "banner": "euroleague"
     },
         {
-            "label": "formula 1 grand prix - round 1",
-            "banner": "formula 1 grand prix - round 1"
-    },
-        {
             "label": "formula 1 grand prix - round 2",
             "banner": "formula 1 grand prix - round 2"
     },
@@ -2707,6 +2703,10 @@
         {
             "label": "formula 1 grand prix - round 24",
             "banner": "formula 1 grand prix - round 24"
+    },
+        {
+            "label": "formula 1 grand prix - round 1",
+            "banner": "formula 1 grand prix - round 1"
     },
         {
             "label": "formula 1",
