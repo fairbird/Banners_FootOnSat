@@ -568,6 +568,10 @@
             "label": "colombian torneo aquila",
             "banner": "colombian torneo aquila"
     },
+		{
+            "label": "concacaf u-20 championships",
+            "banner": "concacaf u-20 championships"
+    },
         {
             "label": "concacaf caribbean club cup",
             "banner": "concacaf caribbean club cup"
@@ -731,6 +735,10 @@
         {
             "label": "czech 1. liga women",
             "banner": "czech 1. liga women"
+    },
+        {
+            "label": "czech liga",
+            "banner": "czech liga"
     },
         {
             "label": "czech cup",
