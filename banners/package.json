@@ -2717,104 +2717,100 @@
             "banner": "euroleague"
     },
         {
-            "label": "formula 1 grand prix - round 2",
-            "banner": "formula 1 grand prix - round 2"
-    },
-        {
-            "label": "formula 1 grand prix - round 3",
-            "banner": "formula 1 grand prix - round 3"
-    },
-        {
-            "label": "formula 1 grand prix - round 4",
-            "banner": "formula 1 grand prix - round 4"
-    },
-        {
-            "label": "formula 1 grand prix - round 5",
-            "banner": "formula 1 grand prix - round 5"
-    },
-        {
-            "label": "formula 1 grand prix - round 6",
-            "banner": "formula 1 grand prix - round 6"
-    },
-        {
-            "label": "formula 1 grand prix - round 7",
-            "banner": "formula 1 grand prix - round 7"
-    },
-        {
-            "label": "formula 1 grand prix - round 8",
-            "banner": "formula 1 grand prix - round 8"
-    },
-        {
-            "label": "formula 1 grand prix - round 9",
-            "banner": "formula 1 grand prix - round 9"
-    },
-        {
-            "label": "formula 1 grand prix - round 10",
-            "banner": "formula 1 grand prix - round 10"
-    },
-        {
-            "label": "formula 1 grand prix - round 11",
-            "banner": "formula 1 grand prix - round 11"
-    },
-        {
-            "label": "formula 1 grand prix - round 12",
-            "banner": "formula 1 grand prix - round 12"
-    },
-        {
-            "label": "formula 1 grand prix - round 13",
-            "banner": "formula 1 grand prix - round 13"
-    },
-        {
-            "label": "formula 1 grand prix - round 14",
-            "banner": "formula 1 grand prix - round 14"
-    },
-        {
-            "label": "formula 1 grand prix - round 15",
-            "banner": "formula 1 grand prix - round 15"
-    },
-        {
-            "label": "formula 1 grand prix - round 16",
-            "banner": "formula 1 grand prix - round 16"
-    },
-        {
-            "label": "formula 1 grand prix - round 17",
-            "banner": "formula 1 grand prix - round 17"
-    },
-        {
-            "label": "formula 1 grand prix - round 18",
-            "banner": "formula 1 grand prix - round 18"
-    },
-        {
-            "label": "formula 1 grand prix - round 19",
-            "banner": "formula 1 grand prix - round 19"
-    },
-        {
-            "label": "formula 1 grand prix - round 20",
-            "banner": "formula 1 grand prix - round 20"
-    },
-        {
-            "label": "formula 1 grand prix - round 21",
-            "banner": "formula 1 grand prix - round 21"
-    },
-        {
-            "label": "formula 1 grand prix - round 22",
-            "banner": "f1"
-    },
-        {
-            "label": "formula 1 grand prix - round 23",
-            "banner": "formula 1 grand prix - round 23"
-    },
-        {
-            "label": "formula 1 grand prix - round 24",
+            "label": "formula 1",
             "banner": "f1"
     },
         {
             "label": "formula 1 grand prix - round 1",
-            "banner": "formula 1 grand prix - round 1"
+            "banner": "australia-f1"
     },
         {
-            "label": "formula 1",
-            "banner": "f1"
-        }
+            "label": "formula 1 grand prix - round 2",
+            "banner": "china-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 3",
+            "banner": "japan-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 4",
+            "banner": "miami-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 5",
+            "banner": "canada-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 6",
+            "banner": "monaco-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 7",
+            "banner": "barcelona-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 8",
+            "banner": "austria-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 9",
+            "banner": "great-britain-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 10",
+            "banner": "belgium-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 11",
+            "banner": "hungary-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 12",
+            "banner": "netherlands-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 13",
+            "banner": "italy-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 14",
+            "banner": "spain-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 15",
+            "banner": "azerbaijan-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 16",
+            "banner": "bahrain-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 17",
+            "banner": "singapore-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 18",
+            "banner": "united-states-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 19",
+            "banner": "mexico-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 20",
+            "banner": "brazil-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 21",
+            "banner": "las-vegas-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 22",
+            "banner": "qatar-f1"
+    },
+        {
+            "label": "formula 1 grand prix - round 23",
+            "banner": "abu-dhabi-f1"
+    }
     ]
 }
